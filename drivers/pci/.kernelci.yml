@@ -1,0 +1,9 @@
+branches:
+  - for-linus
+  - next
+  - for-kernelci
+
+architectures:
+  - x86_64
+  - arm64
+  - arm
